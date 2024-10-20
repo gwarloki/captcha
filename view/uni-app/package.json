@@ -37,7 +37,7 @@
     "flyio": "^0.6.2",
     "js-md5": "^0.7.3",
     "regenerator-runtime": "^0.12.1",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vuex": "^3.3.0"
   },
   "devDependencies": {
